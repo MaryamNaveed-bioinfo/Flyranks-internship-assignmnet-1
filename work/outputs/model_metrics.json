@@ -1,0 +1,16 @@
+{
+  "baseline_mae": 0.003729,
+  "model_mae": 0.003344,
+  "mae_improvement_pct": 10.33,
+  "split_type": "client_grouped",
+  "queue_size": 44562,
+  "total_eligible_pages": 101917,
+  "flagged_pct": 43.72,
+  "top_features": [
+    "gsc_impressions",
+    "ga4_pageviews",
+    "gsc_avg_position"
+  ],
+  "data_source": "fact_content_daily_performance_sample.parquet",
+  "min_impressions_threshold": 100
+}
