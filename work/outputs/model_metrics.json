@@ -1,7 +1,7 @@
 {
   "baseline_mae": 0.003729,
-  "model_mae": 0.003336,
-  "mae_improvement_pct": 10.55,
+  "model_mae": 0.00334,
+  "mae_improvement_pct": 10.43,
   "split_type": "client_grouped",
   "queue_size": 44562,
   "total_eligible_pages": 101917,
