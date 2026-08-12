@@ -2,7 +2,7 @@
 
 This folder marks the final submission for the FlyRank ML Internship capstone.
 
-**Paper:** Finding the Pages That Deserve a Second Look — CTR Opportunity Scoring in Search Content
+**Paper:** Finding the Pages That Deserve a Second Look CTR Opportunity Scoring in Search Content
 
 **Live paper:** see `paper_url.txt`
 
